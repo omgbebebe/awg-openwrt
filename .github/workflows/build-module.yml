@@ -16,7 +16,7 @@ jobs:
             pkgarch: aarch64_cortex-a53
             target: rockchip
             subtarget: armv8
-            vermagic: "95406503857f757c242adad1c14f7d60"
+            vermagic: "2d23b8a4ca7c461cce81c262d535bcf7"
     steps:
       - uses: actions/checkout@v4
         with:
